@@ -11,3 +11,4 @@ Estatísticas gerais abaixo:
 
                   
 Rede Atual: [![Rede Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-wagner-b227b222a/)
+![Kevin André III Edit](https://user-images.githubusercontent.com/102445528/167277268-842716b2-fc3b-458b-ac92-bb38ece1830b.png)

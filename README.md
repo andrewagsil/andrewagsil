@@ -15,5 +15,4 @@ Rede Atual: [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-wagner-b227b222a/)
 ## Lista de Colaboradores
 | Nome                          | Email                         |
 | ------------------------------| ----------------------------- |
-| André Delfin                  | andredelend@gmail.com         |  
-| Ton Marcondes                 | ........                      |
+| Ton Marcondes                 | twitter.com/ton_marcondes     |
